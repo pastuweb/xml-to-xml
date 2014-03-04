@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-1"?><xmlRidotto>
+<appunto>
+<autore>Pasturenzi Francesco</autore>
+<titolo> Creazione di un XML</titolo>
+<descrizione>  descrizione di "Creazione di un XML" </descrizione>
+<link>http://www.sito-esterno.it</link>
+<creato>22/07/2013 11:10:01</creato>
+<pubblicato>23/07/2013 11:11:01</pubblicato>
+</appunto>
+<appunto>
+<autore>Clerico Silvia</autore>
+<titolo> Creazione di un POS</titolo>
+<descrizione>  descrizione di "Creazione di un POS" </descrizione>
+<link>http://www.appuntivari.net</link>
+<creato>22/07/2013 11:10:01</creato>
+<pubblicato>25/07/2013 11:11:01</pubblicato>
+</appunto>
+</xmlRidotto>
